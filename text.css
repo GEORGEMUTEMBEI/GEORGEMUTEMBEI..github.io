@@ -1,0 +1,66 @@
+h1
+{
+  font-size: 50px;
+  color: BLACK;
+  margin-left:auto;
+  letter-spacing: 0.1em;
+  align:center;
+  border-color: white;
+  padding: 10PX 20PX;
+}
+h2
+{
+  color: brown;
+}
+  p
+{
+color:white;
+background-color: #cccccc
+font-size:50px;
+width: auto;
+margin: 40px;
+border: 10px solid #6666;
+
+}
+body
+{
+  font-family: arial;
+  background-image:image( );
+  font-size:20px;
+}
+#footer
+{
+  font-size: 50px;
+  padding: 5px 5px;
+  background-color:blue;
+  text-align:center;
+}
+#links
+{
+  font-size: 30px;
+  padding: 5px 5px;
+  background-color:brown;
+  text-align:left;
+  float:left;
+
+}
+#MISSION
+{
+  font-size: 30px;
+  padding: 1px 1px;
+  background-color:brown;
+  text-align:left;
+  text-decoration: underline;
+  text-emphasis-color: BLACK;
+  color:black;
+}
+#VISSION
+{
+  font-size: 30px;
+  padding: 1px 1px;
+  background-color:brown;
+  text-align:left;
+  text-decoration: underline;
+  text-emphasis-color: BLACK;
+  color:black;
+}
